@@ -2,14 +2,14 @@
 
 ## Repository https://github.com/jsgonzales-spec/testportfolio
 ## Deployment Not deployed yet.
-## Product TBD
-## Audience TBD
-## Goal TBD
-## Brand TBD
-## Visual Direction TBD
-## Page Structure TBD
-## Copy Direction TBD
-## Assets TBD
-## Functionality TBD
-## Avoid TBD
-## Current Decisions TBD
+## Product Personal portfolio for a web designer and AI automation specialist.
+## Audience Small businesses and startups looking for web design or practical AI automation.
+## Goal Land freelance clients by showing capabilities, portfolio work, and a clear contact path.
+## Brand Juliane Gonzales; modern, capable, practical, honest about being early in the professional journey.
+## Visual Direction Typography-led, editorial, minimal, warm neutral palette with dark sections and muted brown accent. Inspired by the supplied Dribbble reference's hierarchy, spacing, composition, and motion language without directly copying its artwork or code.
+## Page Structure Hero, moving service marquee, selected work, services, about, contact CTA, footer.
+## Copy Direction Direct, specific, client-focused, no exaggerated experience claims.
+## Assets No external assets yet; project visuals are CSS-based concepts.
+## Functionality Responsive navigation anchors, animated hero, marquee, scroll reveals, project hover motion, reduced-motion support, contact mailto CTA.
+## Avoid Fake client results, invented experience, excessive decoration, generic filler copy, and direct copying of the reference artwork.
+## Current Decisions Main CTA is “Let’s work together”. Services are Web Design and AI Automation. Target is small businesses/startups. Visual direction follows the supplied reference closely in overall feel while remaining an original implementation.
