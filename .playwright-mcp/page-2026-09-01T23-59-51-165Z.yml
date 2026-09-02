@@ -1,0 +1,121 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "JG." [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+      - navigation "Main navigation" [ref=e5]:
+        - link "Work" [ref=e6] [cursor=pointer]:
+          - /url: "#work"
+        - link "Services" [ref=e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e10]: Available for work
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: Available for new projects
+        - link "Let’s Talk ↗" [ref=e17] [cursor=pointer]:
+          - /url: "#contact"
+      - generic "Juliane Gonzales" [ref=e18]:
+        - heading "JULIANE GONZALES" [level=1] [ref=e19]
+      - generic:
+        - img "Juliane Gonzales"
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - heading "Web Designer & AI Automation Specialist" [level=2] [ref=e22]
+          - paragraph [ref=e23]: I design clear websites and practical AI-powered workflows for businesses that want to look better and work smarter.
+          - link "Let’s collaborate ↗" [ref=e24] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e25]:
+          - link "Selected Work ↗" [ref=e26] [cursor=pointer]:
+            - /url: "#work"
+          - link "Web Design ↗" [ref=e27] [cursor=pointer]:
+            - /url: "#services"
+          - link "AI Automation ↗" [ref=e28] [cursor=pointer]:
+            - /url: "#services"
+    - generic [ref=e30]:
+      - generic [ref=e31]: Web Design ✦
+      - generic [ref=e32]: AI Automation ✦
+      - generic [ref=e33]: Web Design ✦
+      - generic [ref=e34]: AI Automation ✦
+      - generic [ref=e35]: Web Design ✦
+      - generic [ref=e36]: AI Automation ✦
+      - generic [ref=e37]: Web Design ✦
+      - generic [ref=e38]: AI Automation ✦
+      - generic [ref=e39]: Web Design ✦
+      - generic [ref=e40]: AI Automation ✦
+      - generic [ref=e41]: Web Design ✦
+      - generic [ref=e42]: AI Automation ✦
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - heading "Selected work" [level=2] [ref=e45]
+        - paragraph [ref=e46]: Concept projects and experiments that show how I approach design, systems, and automation.
+      - generic [ref=e47]:
+        - article [ref=e48]:
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - heading "Local Business Website" [level=3] [ref=e52]
+              - paragraph [ref=e53]: A conversion-focused website concept for a growing service business.
+            - generic [ref=e54]: Web Design
+        - article [ref=e55]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - heading "Lead Follow-up System" [level=3] [ref=e59]
+              - paragraph [ref=e60]: An automation concept that organizes inquiries and follow-ups.
+            - generic [ref=e61]: AI Automation
+        - article [ref=e62]:
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - heading "Creator Landing Page" [level=3] [ref=e66]
+              - paragraph [ref=e67]: A clean personal brand concept built around one clear action.
+            - generic [ref=e68]: Web Design
+    - generic [ref=e69]:
+      - paragraph [ref=e70]: / Service
+      - generic [ref=e71]:
+        - heading "What I do" [level=2] [ref=e72]
+        - paragraph [ref=e73]: Three ways I help small businesses look better and run smoother.
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - button "Web Design" [expanded] [ref=e76] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e78]: +
+          - paragraph [ref=e82]: I create responsive, focused websites for businesses that need a stronger online presence and a clear path from visitor to customer.
+        - generic [ref=e87]:
+          - button "AI Automation" [ref=e88] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e90]: +
+          - paragraph [ref=e92]: I map repetitive tasks and build practical workflows that help handle leads, information, notifications, and other routine work.
+        - generic [ref=e97]:
+          - button "Virtual Assistant" [ref=e98] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e100]: +
+          - paragraph [ref=e102]: I take on the ongoing, recurring work — inbox and calendar upkeep, content updates, data entry, and follow-ups — so business owners can stay focused on their work.
+    - generic [ref=e108]:
+      - heading [level=2] [ref=e109]:
+        - text: I’m building
+        - emphasis [ref=e110]: from the ground up.
+      - generic [ref=e111]:
+        - paragraph [ref=e112]: I’m Juliane, a web designer and AI automation specialist focused on helping businesses improve their digital presence and day-to-day workflows.
+        - paragraph [ref=e113]: I’m early in my professional journey, so I keep my work honest. I use portfolio projects to demonstrate what I can build and I approach every client project with a learning mindset.
+        - generic [ref=e114]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Focus
+            - strong [ref=e117]: Web + AI
+          - generic [ref=e118]:
+            - generic [ref=e119]: Best fit
+            - strong [ref=e120]: Small businesses
+          - generic [ref=e121]:
+            - generic [ref=e122]: Approach
+            - strong [ref=e123]: Clear & practical
+    - generic [ref=e125]:
+      - heading "Have a website or workflow that needs fixing?" [level=2] [ref=e126]
+      - generic [ref=e127]:
+        - paragraph [ref=e128]: Tell me what you’re trying to build or automate. We can start with the problem and figure out the simplest useful solution.
+        - link "Start a conversation ↗" [ref=e129] [cursor=pointer]:
+          - /url: mailto:hello@example.com
+          - text: Start a conversation
+          - generic [ref=e130]: ↗
+  - contentinfo [ref=e131]:
+    - generic [ref=e132]: © 2026 Juliane Gonzales
+    - link "Back to top ↑" [ref=e134] [cursor=pointer]:
+      - /url: "#top"
