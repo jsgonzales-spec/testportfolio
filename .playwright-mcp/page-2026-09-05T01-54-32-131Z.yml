@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "JG." [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+      - navigation "Main navigation" [ref=e5]:
+        - link "Work" [ref=e6] [cursor=pointer]:
+          - /url: "#work"
+        - link "Services" [ref=e7] [cursor=pointer]:
+          - /url: "#services"
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e10]: Available for work
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: Available for new projects
+        - link "Let’s Talk ↗" [ref=e17] [cursor=pointer]:
+          - /url: "#contact"
+      - generic "Juliane Gonzales" [ref=e18]:
+        - heading "JULIANE GONZALES" [level=1] [ref=e19]
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - heading "Web Designer & AI Automation Specialist" [level=2] [ref=e22]
+          - paragraph [ref=e23]: I design clear websites and practical AI-powered workflows for businesses that want to look better and work smarter.
+          - link "Let’s collaborate ↗" [ref=e24] [cursor=pointer]:
+            - /url: "#contact"
+        - generic:
+          - img "Juliane Gonzales"
+        - generic [ref=e25]:
+          - link "Selected Work ↗" [ref=e26] [cursor=pointer]:
+            - /url: "#work"
+          - link "Web Design ↗" [ref=e27] [cursor=pointer]:
+            - /url: "#services"
+          - link "AI Automation ↗" [ref=e28] [cursor=pointer]:
+            - /url: "#services"
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [aria-hidden]: Portfolio
+        - heading "SELECTED WORK" [level=2] [ref=e31]
+      - generic [ref=e32]:
+        - group "Filter projects" [ref=e33]:
+          - button "Web Development" [pressed] [ref=e34] [cursor=pointer]
+          - button "AI Automation" [ref=e35] [cursor=pointer]
+        - generic [ref=e36]: View All Work ↗
+      - generic [ref=e37]:
+        - article [ref=e38]:
+          - generic [ref=e39]: Screenshot
+          - generic [ref=e41]:
+            - heading "Local Business Website" [level=3] [ref=e42]
+            - generic [ref=e43]:
+              - generic [ref=e44]: Web Development
+              - generic [ref=e45]: Exploration
+            - button "View Details ↗" [disabled] [ref=e46]
+        - article [ref=e47]:
+          - generic [ref=e48]: Screenshot
+          - generic [ref=e50]:
+            - heading "Creator Landing Page" [level=3] [ref=e51]
+            - generic [ref=e52]:
+              - generic [ref=e53]: Web Development
+              - generic [ref=e54]: Exploration
+            - button "View Details ↗" [disabled] [ref=e55]
+    - generic [ref=e56]:
+      - heading "TECH STACK" [level=2] [ref=e58]
+      - generic [ref=e59]:
+        - article [ref=e60]:
+          - generic [ref=e61]: "01"
+          - heading "AI & Automation" [level=3] [ref=e62]
+          - paragraph [ref=e63]: n8n · ChatGPT · Claude · OpenCode · Google Gemini · AI Workflows · Prompt Engineering
+        - article [ref=e64]:
+          - generic [ref=e65]: "02"
+          - heading "Development" [level=3] [ref=e66]
+          - paragraph [ref=e67]: JavaScript · HTML · CSS · Tailwind CSS · Next.js · React
+        - article [ref=e68]:
+          - generic [ref=e69]: "03"
+          - heading "APIs & Integrations" [level=3] [ref=e70]
+          - paragraph [ref=e71]: REST APIs · Webhooks · Facebook Graph API · Google APIs
+        - article [ref=e72]:
+          - generic [ref=e73]: "04"
+          - heading "Business Tools" [level=3] [ref=e74]
+          - paragraph [ref=e75]: Notion · Google Sheets · Gmail · Google Calendar
+        - article [ref=e76]:
+          - generic [ref=e77]: "05"
+          - heading "Cloud & Media" [level=3] [ref=e78]
+          - paragraph [ref=e79]: Cloudflare Workers AI · Cloudinary · Vercel
+        - article [ref=e80]:
+          - generic [ref=e81]: "06"
+          - heading "Developer Tools" [level=3] [ref=e82]
+          - paragraph [ref=e83]: Git · GitHub
+    - generic [ref=e84]:
+      - paragraph [ref=e85]: / Service
+      - generic [ref=e86]:
+        - heading "What I do" [level=2] [ref=e87]
+        - paragraph [ref=e88]: Three ways I help small businesses look better and run smoother.
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - button "Web Design" [expanded] [ref=e91] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e93]: +
+          - paragraph [ref=e97]: I create responsive, focused websites for businesses that need a stronger online presence and a clear path from visitor to customer.
+        - generic [ref=e102]:
+          - button "AI Automation" [ref=e103] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e105]: +
+          - paragraph [ref=e107]: I map repetitive tasks and build practical workflows that help handle leads, information, notifications, and other routine work.
+        - generic [ref=e112]:
+          - button "Virtual Assistant" [ref=e113] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e115]: +
+          - paragraph [ref=e117]: I take on the ongoing, recurring work — inbox and calendar upkeep, content updates, data entry, and follow-ups — so business owners can stay focused on their work.
+    - generic [ref=e123]:
+      - heading [level=2] [ref=e124]:
+        - text: I’m building
+        - emphasis [ref=e125]: from the ground up.
+      - generic [ref=e126]:
+        - paragraph [ref=e127]: I’m Juliane, a web designer and AI automation specialist focused on helping businesses improve their digital presence and day-to-day workflows.
+        - paragraph [ref=e128]: I’m early in my professional journey, so I keep my work honest. I use portfolio projects to demonstrate what I can build and I approach every client project with a learning mindset.
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - generic [ref=e131]: Focus
+            - strong [ref=e132]: Web + AI
+          - generic [ref=e133]:
+            - generic [ref=e134]: Best fit
+            - strong [ref=e135]: Small businesses
+          - generic [ref=e136]:
+            - generic [ref=e137]: Approach
+            - strong [ref=e138]: Clear & practical
+    - generic [ref=e140]:
+      - heading "Have a website or workflow that needs fixing?" [level=2] [ref=e141]
+      - generic [ref=e142]:
+        - paragraph [ref=e143]: Tell me what you’re trying to build or automate. We can start with the problem and figure out the simplest useful solution.
+        - link "Start a conversation ↗" [ref=e144] [cursor=pointer]:
+          - /url: mailto:hello@example.com
+          - text: Start a conversation
+          - generic [ref=e145]: ↗
+  - contentinfo [ref=e146]:
+    - generic [ref=e147]: © 2026 Juliane Gonzales
+    - link "Back to top ↑" [ref=e149] [cursor=pointer]:
+      - /url: "#top"
